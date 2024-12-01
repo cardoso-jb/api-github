@@ -39,8 +39,5 @@ O sistema é capaz de fornecer as seguintes informações para um usuário do Gi
 Qualquer contribuição será bem-vinda! 😄
 
 <h2>📜 Licença</h2>
-<<<<<<< HEAD
 Este projeto é licenciado sob a MIT License (https://opensource.org/licenses/MIT).
-=======
-Este projeto é licenciado sob a MIT License (https://opensource.org/licenses/MIT).
->>>>>>> c669946e3a5ea21500d315d35debad31113b6d30
+
