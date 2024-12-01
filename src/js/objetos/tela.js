@@ -50,7 +50,7 @@ const tela = {
        //Utilizando o forEach para procurar dentro de cada objeto os eventos selecionados
        eventType.forEach(exibeEvent => {
         //if (se) o obejto for type "PushEvent", buscar o nome do repositorio e a mensagem de commit
-        if (exibeEvent.type === 'PushEvent' && exibeEvent.payload && exibeEvent.payload.commits) {
+        if (exibeEvent.type === 'PushEvent') {
             const commit = exibeEvent.payload.commits;
     
             // Criando a string com as mensagens de commit (sem duplicação)
