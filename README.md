@@ -40,4 +40,4 @@ O sistema é capaz de fornecer as seguintes informações para um usuário do Gi
     Qualquer contribuição será bem-vinda! 😄
 
 <h2>📜 Licença</h2>
-Este projeto é licenciado sob a MIT License.
+Este projeto é licenciado sob a MIT License (https://opensource.org/licenses/MIT).
